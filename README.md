@@ -1,2 +1,2 @@
-# Tic-Tack-toe
+# Tic-Tac-toe
 Maschine coding question practice
